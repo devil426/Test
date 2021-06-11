@@ -41,3 +41,5 @@ if __name__ == "__main__":
     print(f"{len(sortedSentScore)} results found!")
     for score, item in sortedSentScore:
         print(f" \"{item}\": with a score of {score}")
+
+    print('My name is Kishan')
